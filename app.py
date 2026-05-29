@@ -10,6 +10,8 @@ st.set_page_config(
     layout="wide",
 )
 
+#update app.py
+
 # ── Custom CSS ──────────────────────────────────────────────────────────────
 st.markdown("""
 <style>
