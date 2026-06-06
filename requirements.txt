@@ -1,0 +1,4 @@
+streamlit
+pandas
+plotly==6.1.2
+openpyxl
